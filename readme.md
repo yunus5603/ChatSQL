@@ -1,7 +1,5 @@
 # LangChain SQL Database Chat Interface
 
-# LangChain SQL Database Chat Interface
-
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)](https://langchain.io/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-User%20Interface-green)](https://streamlit.io/)
