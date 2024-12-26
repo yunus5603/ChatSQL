@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-groq
+python-dotenv
+SQLAlchemy
+mysql-connector-python
+pandas
+numpy
+langchain-community
+sentence_transformers
+chromadb
+pathlib
