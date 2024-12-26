@@ -65,7 +65,7 @@ def get_db_credentials() -> dict:
 @st.cache_resource(ttl="2h")
 def configure_db(db_uri,mysql_host=None,mysql_user=None,mysql_password=None,mysql_db=None):
     if db_uri==LOCALDB:
-        dbfilepath=(Path(__file__).parent/"student.db").absolute()
+        dbfilepath=(Path(__file__).parent/"Student_table\student.db").absolute()
         print(dbfilepath)
         creator = lambda: sqlite3.connect(f"file:{dbfilepath}?mode=ro", uri=True)
         return SQLDatabase(create_engine("sqlite:///", creator=creator))
