@@ -9,7 +9,7 @@
 
 This project implements an interactive chat interface that allows users to query SQL databases (SQLite and MySQL) using natural language through a Streamlit web application powered by LangChain and Groq LLM.
 ## Launch Application
-you can access the App through ([Launch Application](https://yunus5603-chatsql-app-4qqccv.streamlit.app/))
+In order to view the app, click 👉[Launch Application](https://yunus5603-chatsql-app-4qqccv.streamlit.app/)
 
 ![](Screenshot.jpg)
 ## 🌟 Features
