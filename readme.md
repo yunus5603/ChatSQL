@@ -9,7 +9,7 @@
 
 This project implements an interactive chat interface that allows users to query SQL databases (SQLite and MySQL) using natural language through a Streamlit web application powered by LangChain and Groq LLM.
 
-![](Images\Screenshot.jpg)
+![](Screenshot.jpg)
 ## 🌟 Features
 
 - Natural language queries to SQL databases
