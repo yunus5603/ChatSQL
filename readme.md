@@ -155,4 +155,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👥 Contact
 
 For any questions or feedback, please contact [syunus838@gmail.com].
+Project Link: [https://github.com/yunus5603/ChatSQL](https://github.com/yunus5603/ChatSQL)
 
+---
+
+<p align="center">Made with ❤️ by Yunus Shaikh</p>
